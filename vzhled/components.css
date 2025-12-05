@@ -876,7 +876,7 @@ table.teams td:nth-child(4) {
 
 
 .btn-yellow {
-    background: var(--color-primary-secondary);
+    background: var(--color-primary);
     color: var(--color-primary-secondary);
 }
 
