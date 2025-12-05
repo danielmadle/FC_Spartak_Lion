@@ -1,9 +1,6 @@
-@import url("base.css");
-@import url("components.css");
-@import url("theming.css");
-@import url("layout.css");
-
-
-
+@import "base.css";
+@import "components.css";
+@import "theming.css";
+@import "layout.css";
 
 
