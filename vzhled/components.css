@@ -883,12 +883,13 @@ table.teams td:nth-child(4) {
     border-radius: var(--border-5xl);
     font-weight: bold;
     transition: var(--time-1);
+    padding: var(--spacing-sm) var(--spacing-lg);
     
 }
 
 .btn:hover {
     opacity: 0.85;
-    color: var(--color-primary-dark);
+    color: var(--color-primary-secondary);
 }
 /*--------------------------------------------------STATISTIKY--------------------------------------------------------------*/
 
