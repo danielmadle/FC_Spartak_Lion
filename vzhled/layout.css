@@ -1,4 +1,4 @@
-@layer layout{
+
 
 header {
     width: var(--width-full);
@@ -226,7 +226,4 @@ footer.footer {
     .footer-col {
         padding: var(--spacind-sm) var(--spacing-none);
     }
-}
-
-
 }
