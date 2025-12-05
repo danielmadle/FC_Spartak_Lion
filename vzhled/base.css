@@ -1,0 +1,25 @@
+@layer base{
+
+html, body {
+    height: 100%;
+    margin: var(--spacing-none);
+    padding: var(--spacing-none);
+    font-family: var(--font-text);
+}
+
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: var(--height-full);      
+    width: var(--width-full);
+    background-color: var(--color-primary-secondary);
+    background-image: url("../obrazky/pozadí3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+}

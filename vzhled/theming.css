@@ -1,0 +1,111 @@
+@layer theming{
+:root {
+       
+        --font-size-3xl: 2.986rem;      /*47.78px*/
+        --font-size-2xl: 2.48rem;	/*39.68px*/
+        --font-size-xl:	2.074rem;	/*33.184px*/
+        --font-size-lg:	1.728rem;	/*27.648px*/
+        --font-size-md:	1.44rem;	/*23.04px*/
+        --font-size-sm:	1.2rem;	/*19.2px*/
+        --font-size-xs:	1rem;	/*16px*/
+        --font-size-2xs: 0.875rem;	/*14px*/
+        --font-size-3xs: 0.75rem;	/*12px*/
+        --font-size-stats: 6.25rem;
+  
+
+        --color-primary: #f7bf00;
+        --color-text-default: #ffffff;
+        --color-primary-dark: #d08800;
+        --color-primary-secondary: #000000;
+        --color-border: #808080;
+        --color-blue: #3f11be;
+        --color-dark-red: #720000;
+        --color-red: #b81d1d;
+
+        --font-text: "Space Mono", sans-serif;
+
+       --spacing-none:	0;
+       --spacing-xxs: 0.125rem; /*2px*/
+       --spacing-xs: 0.25rem; /*4px*/
+       --spacing-sm: 0.5rem; /*8px*/
+       --spacing-md: 1rem; /*16px*/
+       --spacing-lg: 1.5rem; /*24px*/
+       --spacing-xl: 2rem; /*32px*/
+       --spacing-xxl: 3rem; /*48px*/
+       --spacing-3xl: 4rem;   /* 64px */
+       --spacing-4xl: 6rem;   /* 96px */
+       --spacing-5xl: 8rem;   /* 128px */
+       --spacing-6xl: 10rem;  /* 160px */
+       --spacing-7xl: 12rem;  /* 192px */
+       --spacing-8xl: 14rem;  /* 224px */
+       --spacing-9xl: 16rem;  /* 256px */
+      
+
+
+
+       --width-xxxs: 3.5rem;  /*60px*/
+       --width-s4: 4rem;
+       --width-4xs: 5rem ; 
+       --width-logo:6rem;
+       --width-3xs: 6.25rem;
+       --width-2xs: 8.125rem;
+      --width-xxs: 12.5rem;  /*200px*/
+      --width-xs: 21.875rem;     /* 350px */
+      --width-sm: 30rem;     /* 480px */
+      --width-md: 48rem;     /* 768px */
+      --width-lg: 60rem;     /* 960px */
+      --width-xl: 75rem;     /* 1200px */
+      --width-2xl: 81.25rem; /* 1300px */
+      --width-3xl: 87.5rem;  /* 1400px */
+      --width-4xl: 93.75rem; /* 1500px */
+
+  
+      --width-full: 100%;
+      --width-n: 90%;
+      --width-s: 25%;
+      --width-e: 40%;
+      --width-max: max-content;
+      --width-min: min-content;
+
+
+      --height-xxs:5px;
+      --height-xs:50px;
+      --height-s:200px;
+      --height-l:350px;
+      --height-full: 100%;
+
+
+      --border-none: 0;
+      --border-xs: 1px;   
+      --border-sm: 2px; 
+      --border-md: 3px; 
+      --border-lg: 4px;  
+      --border-xl: 6px;   
+      --border-2xl: 8px;
+      --border-3xl: 12px;
+      --border-4xl: 16px;
+      --border-5xl: 20px;
+
+
+
+      --shadow-size-s: 0px 0px 25px;
+      --shadow-size-l: 0 2px 6px;
+      --shadow-size-xl: 0 8px 30px;
+      --shadow-size-xxl: 0 15px 40px;
+      --shadow-size-r: 0 0 20px ;
+      --shadow-size-g:0 0 40px;
+      --shadow-size-y:0 0 60px;
+
+      --time-1: 0.4s;
+      --time-2: 0.3s;
+
+
+}
+
+
+
+        
+        }
+
+        /*--------------------------------------------------------------------------------------------------------------------*/
+
