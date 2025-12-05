@@ -1,5 +1,4 @@
-@import url("base.css");
-@import url("components.css");
-@import url("theming.css");
-@import url("layout.css");
-
+@import "base.css" layer(base);
+@import "components.css" layer(components);
+@import "theming.css" layer(theming);
+@import "layout.css" layer(layout);
