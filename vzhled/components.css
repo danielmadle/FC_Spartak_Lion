@@ -654,6 +654,7 @@ table.teams td:nth-child(4) {
 
 .btn:hover {
     background: var(--color-primary-dark);
+    color: var(--color-primary-secondary);
     
 }
 .hidden-btn{
