@@ -1,8 +1,6 @@
-/* IMPORTY MUSÍ BÝT ÚPLNĚ NAHOŘE – PŘED JAKÝMKOLI JINÝM CSS! */
+@import "base.css" (base);
+@import "components.css" (components);
+@import "theming.css" (theming);
+@import "layout.css" (layout);
 
-@import url("base.css");
-@import url("components.css");
-@import url("theming.css");
-@import url("layout.css");
-
-/* sem pak píšeš zbytek svého CSS */
+@layer base, components, theming, layout;
