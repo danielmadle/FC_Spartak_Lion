@@ -876,6 +876,9 @@ table.teams td:nth-child(4) {
 
 
 .btn-yellow {
+    display: flex;
+    justify-content: center;
+    gap: var(--spacing-md);
     background: var(--color-primary);
     color: var(--color-primary-secondary);
 }
