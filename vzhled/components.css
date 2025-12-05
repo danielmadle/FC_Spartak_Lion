@@ -876,15 +876,18 @@ table.teams td:nth-child(4) {
 
 
 .btn-yellow {
-    display: flex;
-    justify-content: center;
-    gap: var(--spacing-md);
-    background: var(--color-primary);
+    
+   background: var(--color-primary);
     color: var(--color-primary-secondary);
+    border-radius: var(--border-5xl);
+    font-weight: bold;
+    transition: var(--time-1);
+    
 }
 
 .btn:hover {
     opacity: 0.85;
+    color: var(--color-primary-dark);
 }
 /*--------------------------------------------------STATISTIKY--------------------------------------------------------------*/
 
