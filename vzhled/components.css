@@ -874,13 +874,9 @@ table.teams td:nth-child(4) {
 }
 
 
-.btn {
+.btn-start {
     border-radius: var(--border-xl);
     cursor: pointer;
-   
-}
-
-.btn-yellow {
     background: var(--color-primary);
     color: var(--color-primary-secondary);
 }
