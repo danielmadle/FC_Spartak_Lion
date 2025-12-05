@@ -1,6 +1,4 @@
-@import "base.css" (base);
-@import "components.css" (components);
-@import "theming.css" (theming);
-@import "layout.css" (layout);
-
-@layer base, components, theming, layout;
+@import "base.css" layer(base);
+@import "components.css" layer(components);
+@import "theming.css" layer(theming);
+@import "layout.css" layer(layout);
