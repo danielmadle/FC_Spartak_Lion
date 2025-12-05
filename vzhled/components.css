@@ -508,7 +508,7 @@ table.teams td:nth-child(4) {
 }
 
 /* drobné responsivní úpravy */
-@media (max-width: var(--width-md)){
+@media (max-width: 900px){
   .center-image img{ width: 95%; max-width: 900px; }
   .flake{ filter: none; } /* na mobilech méně filtrů pro výkon */
 }
@@ -781,7 +781,7 @@ table.teams td:nth-child(4) {
 
 .ticket-card:hover {
     transform: scale(1.05);
-    box-shadow: var(var--shadow-size-s) var(--color-primary-dark);
+    box-shadow: var(--shadow-size-s) var(--color-primary-dark);
 }
 
 
@@ -989,7 +989,7 @@ table.teams td:nth-child(4) {
     width: var(--width-full);
     max-width: var(--width-xl);
     display: block;
-    margin: var(no) auto;
+    margin: var(--spacing-none) auto;
     border-radius: var(--border-3xl);
     transition: var(--time-1) ease;
 }
